@@ -28,7 +28,7 @@ app.frame('/', (c) => {
   const { buttonValue, inputText, status } = c
   const fruit = inputText || buttonValue
   return c.res({
-    image: 'https://i.ibb.co/JkYtsS3/Max-ROI.jpg',
+    image: 'https://i.ibb.co/FWTKgKt/Max-ROI.jpg',
     intents: [
       <Button.Link href = 'https://www.addressable.io/blog/5-proven-steps-to-skyrocket-your-roi-with-crypto-ads'>Keep Optimizing!</Button.Link>
     ],
